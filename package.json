@@ -24,7 +24,7 @@
   "author": "Surma <surma@surma.dev>",
   "license": "Apache-2.0",
   "dependencies": {
-    "esbuild": "^0.13.13"
+    "esbuild": "^0.25.0"
   },
   "devDependencies": {
     "superstatic": "^7.1.0"
